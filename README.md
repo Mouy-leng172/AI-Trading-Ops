@@ -1,7 +1,9 @@
 # AI Trading Ops — Personal Infrastructure
 ----
 <img width="474" height="248" alt="1193100" src="https://github.com/user-attachments/assets/26fed24d-d10d-41c8-b8cd-79c444e9a858" />
+
 ----
+
 ## Purpose
 This project supports a personally-owned, 24/7 AI-model trading setup running
 on Windows 11. It covers:
